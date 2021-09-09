@@ -1,0 +1,11 @@
+{
+  "name": "java-exercise-9",
+  "version": "1.0.0",
+  "description": "Implementare, tramite blocchi condizionali e cicli, la funzione `getKeys`, la quale, dato in input un qualsiasi oggetto, restituisce la lista delle chiavi presenti al suo interno",
+  "main": "exercise-6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

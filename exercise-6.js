@@ -7,7 +7,6 @@ function getKeys(obj) {
     
   }
 
-
 return newKeys;
 }
 
